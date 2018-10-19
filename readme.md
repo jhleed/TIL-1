@@ -4,7 +4,7 @@
 
 ### 2018.10.18 (목)
 
-1. 지난 수업 복습 ( why! git - github 란 무엇인가? )
+1. 지난 수업 복습 
 - API, N-Screen, MSA
 
 2. TCP/IP 와 UDP 공통점과 차이점
