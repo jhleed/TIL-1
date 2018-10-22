@@ -29,3 +29,20 @@ TCP/IP | UDP
   2. POST - 데이터를 등록하는 방법
   3. PUT - 데이터를 수정,업데이트 하는 방법
   4. DELETE - 데이터를 삭제하는 방법
+
+4. 해시 (프로그래머스)
+- 해시는 Key-Value로 이루어져있다.
+- 해시중에 HashMap은 Key-Value 값에 null을 허용하기 때문에 유용하게 쓰일 수 있다.
+- 선언법    
+  ```
+  Map<String, Integer> pMap = new HashMap<>();  
+  ```
+- 데이터 저장 문법 : put
+  ```
+  pMap.put("유진",100);   // 위에 선언한 형식과 일치하도록 String과 Integer으로 데이터 저장
+  ```
+- 데이터 불러오는 문법 : get
+  ```
+  System.out.println(pMap.get("유진"));       // 이러면 100출력
+  ```
+  
