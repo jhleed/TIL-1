@@ -43,6 +43,6 @@ TCP/IP | UDP
   ```
 - 데이터 불러오는 문법 : get
   ```
-  System.out.println(pMap.get("유진"));       // 이러면 100출력
+  System.out.println(pMap.get("유진"));       // "유진"이라는 Key값에 저장된 value인 100이 출력된다.
   ```
-  
+- 간단하지만 유용할 것 같다.
